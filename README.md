@@ -15,7 +15,7 @@ Prerequisites
 Getting Started
 - Clone the Repository
 
-git clone https://github.com/your-username/task-reminder-app.git
+git clone [https://github.com/your-username/task-reminder-app.git](https://github.com/Mp886/task-remainder-app.git)
 cd task-reminder-app
 
 Dockerization
